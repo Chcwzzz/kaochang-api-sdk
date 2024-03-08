@@ -12,7 +12,7 @@
 
 2. #### 前往 [烤肠-API 接口分享平台](https://api.kaochang.me/) 获取开发者密钥对
 
-3. #### 初始化客户端 QiApiClient 对象
+3. #### 初始化客户端 KaochangClient 对象
 
 - 方法 1 ：主动实例化客户端
 
